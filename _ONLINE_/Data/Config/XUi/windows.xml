@@ -440,7 +440,7 @@
 					<rect name="recipeCraftCountControl" width="120" height="210" pos="27,0" controller="RecipeCraftCount">
 						<button depth="2" name="countDown" style="icon30px, press" pos="-5,-20" sprite="ui_game_symbol_arrow_left" pivot="center" sound="[paging_click]"/>
 						<count_control_input name="count_input" depth="2" pos="10,-5" />
-						<button depth="2" name="countUp" style="icon30px, press" pos="70-20" sprite="ui_game_symbol_arrow_right" pivot="center" sound="[paging_click]"/>
+						<button depth="2" name="countUp" style="icon30px, press" pos="70,-20" sprite="ui_game_symbol_arrow_right" pivot="center" sound="[paging_click]"/>
 						<button depth="2" name="countMax" style="icon30px, press" pos="102,-20" sprite="ui_game_symbol_arrow_max" pivot="center" sound="[paging_click]"/>
 					</rect>
 				</rect>
